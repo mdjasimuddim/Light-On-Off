@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+}
+.images{
+    text-align: center;
+}
+img{
+    margin-right: 60px;
+}
+.btn{
+    text-align: center;
+    margin-top: 40px;
+}
+#on{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: tomato;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#off{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: blue;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
